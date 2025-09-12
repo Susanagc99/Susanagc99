@@ -1,4 +1,5 @@
-## 👩‍💻 Hi! I’m Susi, a developer in training with a strong desire to learn and create.  
+# 👩‍💻 Hi! I’m Susi
+## A developer in training with a strong desire to learn and create.  
 🚀 I’m passionate about technology, music, and exploring how ideas can turn into real projects.  
 🌱 Currently learning TypeScript and Next.js while building projects that blend logic, design, and creativity.  
 💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world.  
@@ -53,10 +54,12 @@
   </a>
 </div>
 
----
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Susanagc99/Susanagc99/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Susanagc99/Susanagc99/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Susanagc99/Susanagc99/output/pacman-contribution-graph.svg">
 </picture>
+
+###
