@@ -37,8 +37,8 @@
 <h2 align="center">📬 Let’s Connect!</h2>
 
 <p align="center">
-✨ I’d love to connect with people who share the same passion for tech, creativity, and learning.   
-💌 Feel free to reach out — let’s build, learn, and grow together!  
+✨ I’d love to connect with people who share the same passion for tech, creativity, and learning.  
+  💌 Feel free to reach out — let’s build, learn, and grow together!  
 </p>
 
 <div align="center">
