@@ -1,6 +1,6 @@
 ## 👩‍💻 Hi! I’m Susi, a developer in training with a strong desire to learn and create.  
 🚀 I’m passionate about technology, music, and exploring how ideas can turn into real projects.  
-🌱 Currently learning Python, JavaScript, TypeScript and Next.js while building projects that blend logic, design, and creativity.  
+🌱 Currently learning TypeScript and Next.js while building projects that blend logic, design, and creativity.  
 💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world.  
 
 ---
