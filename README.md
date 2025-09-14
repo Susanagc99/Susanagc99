@@ -2,13 +2,10 @@
 
 ### A developer in training with a strong desire to learn and create.  
 🚀 I’m passionate about technology, music, and exploring how ideas can turn into real projects.  
-🌱 Currently learning TypeScript and Next.js while building projects that blend logic, design, and creativity.  
+🌱 Currently learning TypeScript and Next while building projects that blend logic, design, and creativity.  
 💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world.  
 
 ---
-
-<h2 align="center">📊 My GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Susanagc99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Susanagc99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
@@ -17,7 +14,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚡Tech Stack</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -35,7 +32,7 @@
 
 ---
 
-<h2 align="center">📬 Let’s Connect!</h2>
+<h2 align="center">📬Let’s Connect!</h2>
 
 <p align="center">
 ✨ I’d love to connect with people who share the same passion for tech, creativity, and learning.  
