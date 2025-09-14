@@ -5,6 +5,7 @@
 🌱 Currently learning TypeScript and Next while building projects that blend logic, design, and creativity.  
 💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world.  
 
+---
 <h3 align="center">⚡Tech Stack</h3>
 
 <div align="center">
