@@ -35,7 +35,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
        height="48" alt="typescript logo" 
-       style="border-radius: 8px; background-color: #ffffff; padding: 6px;" />
+       style="border-radius: 20px; padding: 6px;" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
        height="48" alt="nextjs logo" 
