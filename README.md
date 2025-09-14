@@ -52,8 +52,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
 </div>
+
 <p align="center">
-💌 Let’s build, learn, and grow together!
+Let’s build, learn, and grow together!💌
 </p>
 
 ###
