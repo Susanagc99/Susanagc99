@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I’m Susana Gutiérrez👋🏼</h1>
+<h1 align="center">Hi!👋🏼 I’m Susana :)</h1>
 
 ### 👩‍💻 A developer in training with a strong desire to learn and create.  
 🚀 I’m passionate about technology, music, and exploring how ideas can turn into real projects.  
