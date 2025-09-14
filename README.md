@@ -5,7 +5,7 @@
 🌱 Currently learning TypeScript and Next while building projects that blend logic, design, and creativity.  
 💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world.  
 
-<h3>⚡Tech Stack</h3>
+<h3 align="center">⚡Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
