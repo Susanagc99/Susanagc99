@@ -18,31 +18,38 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
-  <img width="13" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-  <img width="13" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="13" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
-  <img width="13" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="nextjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="32" alt="github logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="32" alt="git logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="32" alt="azure logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="32" alt="notion logo"  />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="30" alt="notion logo"  />
 </div>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Susanagc99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="180" alt="stats graph"  />
