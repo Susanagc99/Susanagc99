@@ -51,10 +51,10 @@
 </div>  
 
 <h3 align="center">
-Let’s build, learn, and grow together!💌
+Let’s build, learn, and grow together! 💌
 </h3>  
 
----
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Susanagc99/Susanagc99/output/pacman-contribution-graph-dark.svg">
@@ -62,4 +62,3 @@ Let’s build, learn, and grow together!💌
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Susanagc99/Susanagc99/output/pacman-contribution-graph.svg">
 </picture>
 
----
