@@ -1,4 +1,4 @@
-# 👩‍💻 Hi! I’m Susi
+<h1 align="center">👩‍💻 Hi! I’m Susi</h1> 
 ## A developer in training with a strong desire to learn and create.  
 🚀 I’m passionate about technology, music, and exploring how ideas can turn into real projects.  
 🌱 Currently learning TypeScript and Next.js while building projects that blend logic, design, and creativity.  
@@ -38,7 +38,9 @@
 
 <p align="center">
 ✨ I’d love to connect with people who share the same passion for tech, creativity, and learning.  
-  💌 Feel free to reach out — let’s build, learn, and grow together!  
+</p>
+<p align="center">
+💌 Let’s build, learn, and grow together!
 </p>
 
 <div align="center">
