@@ -6,7 +6,7 @@
 💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world.  
 
 ---
-<h3 align="center">⚡Tech Stack</h3>
+<h2 align="center">⚡Tech Stack</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
