@@ -50,9 +50,9 @@
   </a>
 </div>  
 
-<h3 align="center">
+<h4 align="center">
 Let’s build, learn, and grow together! 💌
-</h3>  
+</h4>  
 
 ###
 
