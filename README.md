@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">💻 I’m passionate about technology, music, and exploring how ideas can turn into real projects.<br>🚀 Currently learning TypeScript and Next while building projects that blend logic, design, and creativity.<br>💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world ❤️.</p>
+<p align="left">💻 I’m passionate about technology, music, and exploring how ideas can turn into real projects<br>🚀 Currently learning TypeScript and Next while building projects that blend logic, design, and creativity<br>💡 I believe in the power of patience, curiosity, and consistency to grow in the tech world ❤️</p>
 
 ###
 
-<h2 align="center">⚡Languages ​​and tools</h2>
+<h2 align="center"> ⚡Languages ​​and tools🔧</h2>
 
 ###
 
