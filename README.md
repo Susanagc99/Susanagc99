@@ -18,17 +18,17 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="css3 logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
 </div>
 
@@ -36,21 +36,18 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
-  <img width="8" />
   
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
-  <img width="8" />
 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="8" />
   
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-  <img width="8" />
 
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="25" alt="notion logo"  />
   
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="25" alt="azure logo"  />
-  <img width="8" />
+  
+  
 </div>
 
 ###
