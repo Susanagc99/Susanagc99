@@ -31,9 +31,9 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo"  />
+  <img width="3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs logo"  />
 </div>
 
 ###
