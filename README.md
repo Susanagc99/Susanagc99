@@ -25,9 +25,9 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="mysql logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
   <img width="3" />
